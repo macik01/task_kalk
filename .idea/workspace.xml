@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="567d2dea-7013-46b9-86a4-ad957484f414" name="Changes" comment="умовні оперетори калькулятор 1">
+    <list default="true" id="567d2dea-7013-46b9-86a4-ad957484f414" name="Changes" comment="умовні оперетори task 3/2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -71,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729055772823</updated>
-      <workItem from="1729055786244" duration="10585000" />
+      <workItem from="1729055786244" duration="12378000" />
     </task>
     <task id="LOCAL-00001" summary="умовні оперетори">
       <option name="closed" value="true" />
@@ -129,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729064223316</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="умовні оперетори task 3/2">
+      <option name="closed" value="true" />
+      <created>1729076494720</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729076494720</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,9 +147,10 @@
     <MESSAGE value="умовні оперетори" />
     <MESSAGE value="умовні оперетори калькулятор" />
     <MESSAGE value="умовні оперетори калькулятор 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="умовні оперетори калькулятор 1" />
+    <MESSAGE value="умовні оперетори task 3/2" />
+    <option name="LAST_COMMIT_MESSAGE" value="умовні оперетори task 3/2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/task_operation$main.coverage" NAME="main Coverage Results" MODIFIED="1729076173885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/task_operation$main.coverage" NAME="main Coverage Results" MODIFIED="1729076449971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

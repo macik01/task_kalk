@@ -18,9 +18,12 @@ else:
     print("Eror") '''
 
 #tast 3.2
-num =  [12 , 3 , 4 , 10]
+'''num =  [12 , 3 , 4 , 10]
 if len(num) > 1:
     num_last = num.pop()
     num.insert( 0 , num_last)
-print(num)
-
+print(num)'''
+# task 3.3
+num =  [1,2,3,4,5,6,7]
+ser = (len(num)+ 1)// 2
+print (num[:ser] , num[ser:])
