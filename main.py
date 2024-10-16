@@ -11,7 +11,7 @@ elif num_oper == '-' :
 elif num_oper == '*' :
     res = num_one * num_two
     print(res)
-elif num_oper == '/' :
+elif num_oper == '/' and num_one !=0 and num_two !=0 :
     res  = int (num_one / num_two)
     print(res)
 else:
